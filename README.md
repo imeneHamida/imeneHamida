@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imene Hamida</h1>
 <h3 align="center">Fullstack Developer with a passion for creative problem-solving</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/xT9IgzoKnwFNmISR8I.webp">
 
 - 🔭 I’m currently working on [Plagiarism Detection Platform using Machine Learning and React js](https://github.com/Latifa-cyber/WANLP/)
 
